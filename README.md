@@ -1,2 +1,6 @@
 # Klausimai
-_ Parašykite klausimus į "Issues" skiltį _
+
+## Skelbkite klausimus, atsakysiu kiek galėsiu 
+```
+Parašykite klausimus į "Issues" skiltį
+```
